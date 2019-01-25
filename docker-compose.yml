@@ -1,0 +1,53 @@
+# Mock order API + webhook + local Dialogflow simulator.
+# The webhook alone is what a real Dialogflow agent needs (see README).
+services:
+  orders-api:
+    build: .
+    command: ["node", "src/mock-api/server.js"]
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      MOCK_API_PORT: 4000
+    ports:
+      - "4000:4000"
+
+  webhook:
+    build: .
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      PORT: 8080
+      ORDERS_API_URL: http://orders-api:4000
+    ports:
+      - "8080:8080"
+    depends_on:
+      - orders-api
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:8080/health"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+
+  simulator:
+    build: .
+    command: ["node", "src/simulator/server.js"]
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      SIMULATOR_PORT: 3000
+      WEBHOOK_URL: http://webhook:8080/webhook
+    ports:
+      - "3000:3000"
+    depends_on:
+      - webhook
+validate_schema:
+  enabled: true
+extract_text:
+  enabled: true
+validate_schema:
+  enabled: true
+extract_text:
+  enabled: true
