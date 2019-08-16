@@ -1,0 +1,66 @@
+{
+  "id": "b52df49c-b505-532d-9500-8a171ac7c634",
+  "name": "order.cancel.decline",
+  "auto": true,
+  "contexts": [
+    "awaiting-cancel-confirmation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.cancel.decline",
+      "affectedContexts": [
+        {
+          "name": "awaiting-cancel-confirmation",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No problem, I won't cancel order #awaiting-cancel-confirmation.order_number."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Track package"
+                    },
+                    {
+                      "text": "Check another order"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
