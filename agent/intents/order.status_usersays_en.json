@@ -1,0 +1,462 @@
+[
+  {
+    "id": "436f9a7a-f574-5e14-839c-adbab6863548",
+    "data": [
+      {
+        "text": "where is my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad1cdf2c-a96b-5bfc-afa3-ec3eff67df2d",
+    "data": [
+      {
+        "text": "where's my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcae59a3-d8e1-586c-83ca-047f3e9bdeb3",
+    "data": [
+      {
+        "text": "where is my package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6070dc51-e49e-542e-b8bd-07240ee6414e",
+    "data": [
+      {
+        "text": "order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29d03f45-efef-5639-b1e7-8d4ad238cb9d",
+    "data": [
+      {
+        "text": "check my order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebf7bdf2-b531-5d17-b9e4-f87119169f1f",
+    "data": [
+      {
+        "text": "what's the status of my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56500f03-a8f7-5a8d-a56b-560e5c83f673",
+    "data": [
+      {
+        "text": "has my order shipped yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cb09ec5-1e62-5106-bde8-ca15f7930716",
+    "data": [
+      {
+        "text": "did my order ship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1faf1e1-ce7f-59d8-9936-b1ccba2cd4a7",
+    "data": [
+      {
+        "text": "is my order on the way",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ff0138e-34f6-51e1-8f26-f870bcf1daa5",
+    "data": [
+      {
+        "text": "when will my order arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4ce1d24-0c1a-5ae1-9314-0d3749188f32",
+    "data": [
+      {
+        "text": "when is my stuff arriving",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53735601-af21-52be-b737-92b25064f3ea",
+    "data": [
+      {
+        "text": "I haven't received my order yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b53c1cd5-8383-5df9-907d-d46616c779c5",
+    "data": [
+      {
+        "text": "my order hasn't arrived",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e6dc56a-de51-5c8a-8108-bd961161af6f",
+    "data": [
+      {
+        "text": "what happened to my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5d49232-21c7-580d-bf14-288832ab0bb2",
+    "data": [
+      {
+        "text": "check another order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4071bef-81f4-5668-8d7d-eb66c6eb3eeb",
+    "data": [
+      {
+        "text": "check a different order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78fc0ed1-a953-5857-825f-c55dd7f0c227",
+    "data": [
+      {
+        "text": "I want to check on an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddcbae2a-e483-5bf5-8bfa-5f9762b3065d",
+    "data": [
+      {
+        "text": "can you check on order ",
+        "userDefined": false
+      },
+      {
+        "text": "10482",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "646afa56-2cb9-539c-8a6f-39f6c79c752a",
+    "data": [
+      {
+        "text": "where is order ",
+        "userDefined": false
+      },
+      {
+        "text": "10517",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9bf26d2-c778-5152-ad9e-1f0dfb860a97",
+    "data": [
+      {
+        "text": "status of order ",
+        "userDefined": false
+      },
+      {
+        "text": "10533",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ed3a21d-8db6-5608-a6e8-2badc5871e1e",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "10541",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa34e780-81f6-5672-a6a5-b489d1637ede",
+    "data": [
+      {
+        "text": "10560",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47e46881-8251-50b4-824f-12ab5cded1e8",
+    "data": [
+      {
+        "text": "has order number ",
+        "userDefined": false
+      },
+      {
+        "text": "10574",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " shipped",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f5b30f7-4cc5-55fc-9638-204ce39aa202",
+    "data": [
+      {
+        "text": "my order number is ",
+        "userDefined": false
+      },
+      {
+        "text": "10533",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be99b253-4cf7-526b-8705-c35c5b137c59",
+    "data": [
+      {
+        "text": "it's order ",
+        "userDefined": false
+      },
+      {
+        "text": "10588",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a656faaf-d366-53c0-aab0-05da7bebde2e",
+    "data": [
+      {
+        "text": "order ",
+        "userDefined": false
+      },
+      {
+        "text": "10482",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " email ",
+        "userDefined": false
+      },
+      {
+        "text": "maya.chen@example.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e21658a0-fb70-5bf4-b6c2-734a5a042ca7",
+    "data": [
+      {
+        "text": "where is my order ",
+        "userDefined": false
+      },
+      {
+        "text": "10517",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": ", my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "sam.okafor@example.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13231e29-6e23-5b55-b819-03910db8ba8a",
+    "data": [
+      {
+        "text": "check order ",
+        "userDefined": false
+      },
+      {
+        "text": "10588",
+        "meta": "@order-number",
+        "alias": "order_number",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "lena.fischer@example.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
