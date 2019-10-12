@@ -1,0 +1,35 @@
+{
+  "id": "a977a4b7-61ac-5b36-b074-f5b35f3a4d48",
+  "name": "support.handoff",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.handoff",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can reach our team at support@copperleaf.example, Monday to Friday, 9am to 5pm Eastern. We usually reply within one business day. Including your order number helps us answer faster."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
