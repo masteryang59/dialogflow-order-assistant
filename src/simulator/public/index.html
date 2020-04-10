@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Order Assistant Simulator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div>
+        <h1>Copperleaf Coffee · Order Assistant</h1>
+        <p>Local simulator: the exported Dialogflow ES agent in <code>agent/</code>, calling the real webhook.</p>
+      </div>
+      <button id="reset" type="button">New conversation</button>
+    </header>
+
+    <main class="layout">
+      <section class="chat" aria-label="Chat">
+        <ol id="log" class="log" aria-live="polite"></ol>
+        <form id="form" class="composer">
+          <input id="input" autocomplete="off" maxlength="256" placeholder="Ask about an order…" aria-label="Message" />
+          <button type="submit">Send</button>
+        </form>
+      </section>
+
+      <aside class="debug" aria-label="Dialogflow details">
+        <h2>Last turn</h2>
+        <dl id="turn" class="kv">
+          <dt>Intent</dt><dd>–</dd>
+        </dl>
+        <h2>Parameters</h2>
+        <pre id="params" class="code">{}</pre>
+        <h2>Active contexts</h2>
+        <ul id="contexts" class="contexts"><li class="muted">none</li></ul>
+
+        <h2>Demo orders</h2>
+        <table class="orders">
+          <thead><tr><th>Order</th><th>Email</th><th>State</th></tr></thead>
+          <tbody>
+            <tr><td>10482</td><td>maya.chen@example.com</td><td>shipped</td></tr>
+            <tr><td>10517</td><td>sam.okafor@example.com</td><td>processing</td></tr>
+            <tr><td>10533</td><td>maya.chen@example.com</td><td>delivered</td></tr>
+            <tr><td>10541</td><td>lena.fischer@example.com</td><td>out for delivery</td></tr>
+            <tr><td>10560</td><td>sam.okafor@example.com</td><td>cancelled</td></tr>
+            <tr><td>10574</td><td>jordan.blake@example.com</td><td>delayed</td></tr>
+            <tr><td>10588</td><td>lena.fischer@example.com</td><td>processing</td></tr>
+          </tbody>
+        </table>
+      </aside>
+    </main>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
+<section id="sync_records"></section>
+<section id="format_output"></section>
+<section id="sync_records"></section>
+<section id="format_output"></section>
