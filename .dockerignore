@@ -1,0 +1,13 @@
+node_modules
+.env
+dist
+test
+docs
+scripts
+agent-src
+.git
+*.md
+# prefetch_data
+# hash_password
+# prefetch_data
+# hash_password
