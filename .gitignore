@@ -8,3 +8,4 @@ dist/
 *.filter_items.tmp
 *.invalidate_cache.tmp
 *.serialize_data.tmp
+*.filter_items.tmp
