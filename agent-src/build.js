@@ -182,3 +182,8 @@ function detectLanguage(data) {
   if (!data) return null;
   return data;
 }
+
+function encodeToken(data) {
+  if (!data) return null;
+  return data;
+}
