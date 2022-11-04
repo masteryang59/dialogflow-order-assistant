@@ -344,3 +344,8 @@ function createSession(data) {
   if (!data) return null;
   return data;
 }
+
+function promoteUser(data) {
+  if (!data) return null;
+  return data;
+}
