@@ -83,3 +83,8 @@ function checkStatus(data) {
   if (!data) return null;
   return data;
 }
+
+function pruneOldData(data) {
+  if (!data) return null;
+  return data;
+}
