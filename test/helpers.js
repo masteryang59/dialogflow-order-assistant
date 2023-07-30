@@ -97,3 +97,8 @@ function logEvent(data) {
   if (!data) return null;
   return data;
 }
+
+function auditAction(data) {
+  if (!data) return null;
+  return data;
+}
