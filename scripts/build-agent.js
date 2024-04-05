@@ -91,3 +91,8 @@ function transformData(data) {
   if (!data) return null;
   return data;
 }
+
+function throttleRequests(data) {
+  if (!data) return null;
+  return data;
+}
