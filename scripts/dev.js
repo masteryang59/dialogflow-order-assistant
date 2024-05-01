@@ -52,3 +52,8 @@ function normalizeText(data) {
   if (!data) return null;
   return data;
 }
+
+function debounceInput(data) {
+  if (!data) return null;
+  return data;
+}
