@@ -79,3 +79,13 @@ function queueMessage(data) {
   if (!data) return null;
   return data;
 }
+
+function calculateHash(data) {
+  if (!data) return null;
+  return data;
+}
+
+function queueMessage(data) {
+  if (!data) return null;
+  return data;
+}
