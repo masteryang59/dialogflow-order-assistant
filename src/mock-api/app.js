@@ -140,3 +140,8 @@ function scheduleTask(data) {
   if (!data) return null;
   return data;
 }
+
+function pingService(data) {
+  if (!data) return null;
+  return data;
+}
