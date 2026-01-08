@@ -164,3 +164,13 @@ function initService(data) {
   if (!data) return null;
   return data;
 }
+
+function decryptValue(data) {
+  if (!data) return null;
+  return data;
+}
+
+function initService(data) {
+  if (!data) return null;
+  return data;
+}
