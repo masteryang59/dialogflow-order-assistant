@@ -120,3 +120,8 @@ function maskPii(data) {
   if (!data) return null;
   return data;
 }
+
+function cleanupResources(data) {
+  if (!data) return null;
+  return data;
+}
