@@ -107,3 +107,8 @@ function warmCache(data) {
   if (!data) return null;
   return data;
 }
+
+function updateCache(data) {
+  if (!data) return null;
+  return data;
+}
