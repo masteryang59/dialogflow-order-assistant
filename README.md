@@ -249,3 +249,11 @@ Updated implementation details.
 ## sort entries
 
 Updated implementation details.
+
+## compact storage
+
+Updated implementation details.
+
+## compress payload
+
+Updated implementation details.
